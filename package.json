@@ -1,0 +1,21 @@
+{
+	"name": "wcan-login-package",
+	"version": "0.1.0",
+	"description": "Login to the staff portal",
+	"license": "",
+	"repository": "The-Watering-Can-Dev-Team/wcan-login-package",
+	"author": {
+		"name": "Josh Wood",
+		"email": "josh@twcfm.ca",
+		"url": "joshrealm.ca"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"files": [
+		"index.js"
+	],
+	"dependencies": {
+		"axios": "^1.2.0"
+	}
+}
